@@ -1,4 +1,4 @@
-# M1-Secure-Development-Mobile-applications
+# M1-Secure-Development-Mobile-applications (Mathis Varnier)
   Using Android Studio (or any editor of your choice), we will have to create a mobile application.  The goal is to create a secure application to see our bank accounts.  This application must be available offline. A refresh button allows the user to update its accounts. Access to the application is restricted Exchanges with API must be secure ( with TLS)
   
   - Explain how you ensure user is the right one starting the app :
